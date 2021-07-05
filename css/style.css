@@ -252,9 +252,15 @@ footer li a:hover, #copyright a:hover {
         background-position: bottom right, bottom center;
     }
     #hero-text {
-        padding: 80px 0 300px 0;
+        padding: 80px 0 330px 0;
+    }
+    h1, h2 {
+        font-size: 24px;
     }
     .column-3 > div, .column-4 > div, .col-1-2 {
     width: calc(100% - 40px) !important; 
+    }
+    section: {
+        padding: 80px 0;
     }
 }
