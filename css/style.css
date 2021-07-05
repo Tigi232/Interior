@@ -231,7 +231,7 @@ footer li a:hover, #copyright a:hover {
     }
     .col-1-2 {
     width: calc(100% - 40px)!important;
-}
+    }
     #about img, #offer img {
         object-fit: contain;
         height: auto;
