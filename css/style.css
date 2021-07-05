@@ -99,6 +99,7 @@ textarea {
     font-family: inherit;
     font-size: inherit;
     margin-right: 20px;
+    box-sizing:border-box;
 }
 #offer input[type="text"]:hover,
 #offer input[type="email"]:hover, 
@@ -210,7 +211,7 @@ footer li a:hover, #copyright a:hover {
     #logo {
         margin: 0 auto 30px auto;
     }
-    .column-4 > div {
+    .column-4 > div, .column-3 > div  {
     width: calc(50% - 40px) !important; 
     }
     #about img, #offer img {
@@ -260,7 +261,7 @@ footer li a:hover, #copyright a:hover {
     .column-3 > div, .column-4 > div, .col-1-2 {
     width: calc(100% - 40px) !important; 
     }
-    section: {
-        padding: 80px 0;
+    section, footer {
+        padding: 40px 0;
     }
 }
