@@ -218,8 +218,13 @@ footer li a:hover, #copyright a:hover {
         object-fit: cover;
         height: 100%;
     }
+    #center {
+    float: left;
+    position: relative;
+    left: 50%;
+    right: 50%;
 }
-@media (max-width: 768px) {
+@media (max-width: 975px) {
     #hero {
         background-size: auto 350px, cover;
         background-position: bottom right, bottom center;
