@@ -74,6 +74,9 @@ header .content-box {
     text-transform: uppercase;
     font-weight: bold;
 }
+#main-menu li a:hover{
+    color: #33a67e;
+}
 section {
     padding: 82px 0;
 }
@@ -97,6 +100,11 @@ textarea {
     font-size: inherit;
     margin-right: 20px;
 }
+#offer input[type="text"]:hover,
+#offer input[type="email"]:hover, 
+textarea:hover {
+    border: solid 5px #33a67e;
+}
 textarea {
     min-height: 150px;
 }
@@ -111,6 +119,11 @@ textarea {
     cursor: pointer;
     box-sizing:border-box;
     font-size: larger;
+}
+#offer input[type="submit"]:hover {
+    color: #33a67e;
+    background: #fff;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.10);
 }
 #hero {
     padding: 40px 0 0 0;
@@ -130,6 +143,9 @@ textarea {
     margin-bottom: 10px;
     padding-left: 30px;
 }
+#hero-text-content li a:hover {
+    color: inherit;
+}
 .tel {
     background: url(../img/phone.svg) center left no-repeat;
     background: auto 90%;
@@ -146,10 +162,28 @@ textarea {
     background: #fff;
     box-shadow: 0 0 10px rgba(0,0,0,0.15);
 }
-#about {
-    
+#ortfolio p {
+    margin-bottom: 40px;
 }
-#offer {
-    
+footer {
+    background: #33a67e;
+    color: #fff;
+    text-align: center;
+    padding: 50px 0;
 }
-
+footer li {
+    display: inline-block;
+    margin: 0 15px;
+}
+footer li a {
+    color: #fff;
+}
+footer li a:hover, #copyright a:hover {
+    text-decoration: underline;
+}
+#copyright {
+    text-align: center;
+    padding: 25px 0;
+    font-size: smaller;
+    line-height: 1.3;
+}
