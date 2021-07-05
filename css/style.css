@@ -1,0 +1,155 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    color: #333;
+    background: #fff url(../img/body-bg.png);
+}
+p {
+    margin-bottom: 15px; 
+    line-height: 1.6;
+    }
+h1, h2, h3 {
+    font-family: 'Comfortaa', cursive;
+    line-height:1.2;
+}
+h1 {
+    font-weight: bold;
+    font-size: 46px;
+    margin-bottom: 15px;
+}
+h2 {
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+h3 {
+    font-weight: normal;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+a {
+    color: #33a67e;
+    text-decoration: none;
+}
+section ul {
+    margin-bottom: 15px;
+}
+section li {
+    line-height: 1.2;
+    margin-bottom: 10px;
+    background: url(img/bullet.svg) top 10px left no-repeat;
+    background-size: 6px auto;
+    padding-left: 20px;
+}
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.align-center {
+    text-align: center;
+}
+
+/* Layout */
+
+.content-box {
+    display: block;
+    width: 90%;
+    max-width: 1520px;
+    margin: auto;
+        box-sizing:border-box;
+}
+header .content-box {
+    display: flex; justify-content: space-between;
+}
+#logo {
+    max-width: 320px;
+}
+#main-menu li{
+    display: inline-block;
+    margin-left: 40px;
+}
+#main-menu li a{
+    color: inherit; 
+    text-transform: uppercase;
+    font-weight: bold;
+}
+section {
+    padding: 82px 0;
+}
+section img {
+    border: solid 5px #ccc;
+    padding: 10px;
+    background: #fff;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.10);
+    margin-bottom: 15px;
+}
+#offer input[type="text"],
+#offer input[type="email"], 
+textarea {
+    border: solid 5px #ccc;
+    padding: 10px;
+    background: #fff;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.10);
+    margin-bottom: 15px;
+    width: 100%;
+    font-family: inherit;
+    font-size: inherit;
+    margin-right: 20px;
+}
+textarea {
+    min-height: 150px;
+}
+#offer input[type="submit"] {
+    background: #33a67e;
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 30px;
+    padding: 10px 20px;
+    cursor: pointer;
+    box-sizing:border-box;
+    font-size: larger;
+}
+#hero {
+    padding: 40px 0 0 0;
+    background-image: url(../img/noci.png), url(../img/wall.png);
+    background-position: bottom right, bottom center;
+    background-repeat: no-repeat, no-repeat;
+    background-size: auto 85%, cover;
+}
+#hero-text {
+    padding: 180px 0;
+}
+#hero-text-content {
+    max-width: 650px;
+}
+#hero-text-content li {
+    line-height: 1.2;
+    margin-bottom: 10px;
+    padding-left: 30px;
+}
+.tel {
+    background: url(../img/phone.svg) center left no-repeat;
+    background: auto 90%;
+}
+.mail {
+    background: url(../img/plane.svg) center left no-repeat;
+    background: auto 90%;
+}
+.insta {
+    background: url(../img/instagram.svg) center left no-repeat;
+    background: auto 90%;
+}
+#services, #portfolio {
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.15);
+}
+#about {
+    
+}
+#offer {
+    
+}
+

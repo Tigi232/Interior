@@ -1,0 +1,283 @@
+*************************************
+* START TextExport for Interior.psd
+*************************************
+
+LayerPath: /footer/copyright/
+LayerName: Adatvédelimi nyilatkozat |  Cookie információk | © 2020 Kiss Ta
+
+LayerContent:
+Adatvédelimi nyilatkozat |  Cookie információk | © 2020 Kiss Tamara. Minden jog fenntartva. | weboldal készítés: 123design
+
+*************************************
+
+LayerPath: /footer/
+LayerName: Telefon: +36 20 134 56 78         Email: info@kisstamara.hu    
+
+LayerContent:
+Telefon: +36 20 134 56 78         Email: info@kisstamara.hu          Instagram: @kisstami
+
+*************************************
+
+LayerPath: /offer/
+LayerName: 2 órás személyes konzultáció és design tanácsadás a helyszínen.
+
+LayerContent:
+2 órás személyes konzultáció és design tanácsadás a helyszínen.
+Színek, textíliák, kiegészítõk, bútorok és megvilágítás átbeszélése.
+Budapest területén ingyenes kiszállással, vidéken utazási költségtérítéssel.
+
+*************************************
+
+LayerPath: /offer/
+LayerName: Dolgozzunk együtt!
+
+LayerContent:
+Dolgozzunk együtt!
+
+*************************************
+
+LayerPath: /offer/
+LayerName: Név:
+
+LayerContent:
+Név:
+
+*************************************
+
+LayerPath: /offer/
+LayerName: E-mail cím:
+
+LayerContent:
+E-mail cím:
+
+*************************************
+
+LayerPath: /offer/
+LayerName: AJÁNLATKÉRÉS
+
+LayerContent:
+AJÁNLATKÉRÉS
+
+*************************************
+
+LayerPath: /portfolio/
+LayerName: Kiemelt munkáim
+
+LayerContent:
+Kiemelt munkáim
+
+*************************************
+
+LayerPath: /portfolio/
+LayerName: Új építésû lakás átalakítása és berendezése
+
+LayerContent:
+Új építésû lakás átalakítása és berendezése
+
+*************************************
+
+LayerPath: /portfolio/
+LayerName: 160m2-es családi ház átalakítása, kivitelezéssel
+
+LayerContent:
+160m2-es családi ház átalakítása, kivitelezéssel
+
+*************************************
+
+LayerPath: /portfolio/
+LayerName: Öt csillagos hotel lakosztályainak felújítási terve
+
+LayerContent:
+Öt csillagos hotel lakosztályainak felújítási terve
+
+*************************************
+
+LayerPath: /portfolio/
+LayerName: Belvárosi panzió tervezése és kivitelezése
+
+LayerContent:
+Belvárosi panzió tervezése és kivitelezése
+
+*************************************
+
+LayerPath: /portfolio/
+LayerName: Társasházi lakás felújítása kivitelezéssel
+
+LayerContent:
+Társasházi lakás felújítása kivitelezéssel
+
+*************************************
+
+LayerPath: /portfolio/
+LayerName: Mediterrán stílusú családi ház átlalakítása
+
+LayerContent:
+Mediterrán stílusú családi ház átlalakítása
+
+*************************************
+
+LayerPath: /portfolio/
+LayerName: Exkluzív vezetõi iroda tervezése
+
+LayerContent:
+Exkluzív vezetõi iroda tervezése
+
+*************************************
+
+LayerPath: /portfolio/
+LayerName: Art Deco stílusú lakás tervezése és kivitelezése
+
+LayerContent:
+Art Deco stílusú lakás tervezése és kivitelezése
+
+*************************************
+
+LayerPath: /portfolio/
+LayerName: Sportruházati üzlet berendezési tervei
+
+LayerContent:
+Sportruházati üzlet berendezési tervei
+
+*************************************
+
+LayerPath: /about me/
+LayerName: Munkáim nagy részét fõleg ûzletek kirakatainkak rendezése, irod
+
+LayerContent:
+Munkáim nagy részét fõleg ûzletek kirakatainkak rendezése, irodák belsõinek tervezése teszi ki, leginkább nagyvállalatoknak. Interior tervezésébe 2001-ban kezdtem bele, majd az évek során a szenvedélyemmé vált. A vizuális megjelenésen túl a használhatóságra törekszem, folyamatosan aktualizálom ismereteimet, hogy látványos, de praktikus dolgokat készítsek.
+
+*************************************
+
+LayerPath: /about me/
+LayerName: Kitüntetések, díjjak
+
+LayerContent:
+Kitüntetések, díjjak
+
+*************************************
+
+LayerPath: /about me/
+LayerName: A Magyar Építõmûvészek Szövetsége, belsõépítészeti díj - 2012 I
+
+LayerContent:
+A Magyar Építõmûvészek Szövetsége, belsõépítészeti díj - 2012
+Interior Space and Exhibition Design verseny, I. helyezés - 2016
+A’design Award & Competition, arany minõsítés - 2018
+
+*************************************
+
+LayerPath: /about me/
+LayerName: Rólam
+
+LayerContent:
+Rólam
+
+*************************************
+
+LayerPath: /services/
+LayerName: Lakberendezési tanácsadás
+
+LayerContent:
+Lakberendezési tanácsadás
+
+*************************************
+
+LayerPath: /services/
+LayerName: Belsõépítészeti tervezés
+
+LayerContent:
+Belsõépítészeti tervezés
+
+*************************************
+
+LayerPath: /services/
+LayerName: Valósághû 3D látványtervezés
+
+LayerContent:
+Valósághû 3D látványtervezés
+
+*************************************
+
+LayerPath: /services/
+LayerName: Egyedi  bútorkészítés
+
+LayerContent:
+Egyedi bútorkészítés
+
+*************************************
+
+LayerPath: /services/
+LayerName: Megmutatom hogyan varázsold a lakásod igazi otthonná. Bevezetle
+
+LayerContent:
+Megmutatom hogyan varázsold a lakásod igazi otthonná. Bevezetlek a lakberendezési stílusok, színek, minták, anyagok világába.
+
+*************************************
+
+LayerPath: /services/
+LayerName: Találkozó során 2-3 koncepciótervet készítünk, elsõsorban az al
+
+LayerContent:
+Találkozó során 2-3 koncepciótervet készítünk, elsõsorban az alaprajzot, szín és tömeg vázlatokat, különbözõ anyagokat tervezzük meg.
+
+*************************************
+
+LayerPath: /services/
+LayerName: Megjelenítem elképzeléseid, legyen szó akár lakópark, társasház
+
+LayerContent:
+Megjelenítem elképzeléseid, legyen szó akár lakópark, társasház, családi ház látványtervezésérõl, vagy egyedi bútor tervezésrõl.
+
+*************************************
+
+LayerPath: /services/
+LayerName: Színben és méretben pontosan a lakásba illõ és a család igényei
+
+LayerContent:
+Színben és méretben pontosan a lakásba illõ és a család igényeire szabott bútor a Te elképzeléseid és igényeid alapján.
+
+*************************************
+
+LayerPath: /services/
+LayerName: Miben tudok segíteni?
+
+LayerContent:
+Miben tudok segíteni?
+
+*************************************
+
+LayerPath: /hero/
+LayerName: Teljes körû belsõépítészeti és lakberendezési tervezés
+
+LayerContent:
+Teljes körû belsõépítészeti és lakberendezési tervezés
+
+*************************************
+
+LayerPath: /hero/
+LayerName: Komplex belsõépítészeti tervezést és lakberendezési szolgáltatá
+
+LayerContent:
+Komplex belsõépítészeti tervezést és lakberendezési szolgáltatást kínálok, figyelembe véve ügyfeleim igényeit. Legfõbb célom az egyedi, funkcionális, idõtálló megoldásokkal támogatni megbízóimat!
+
+*************************************
+
+LayerPath: /hero/
+LayerName: +36 20 134 56 78 info@kisstamara.hu @kisstami
+
+LayerContent:
++36 20 134 56 78
+info@kisstamara.hu
+@kisstami
+
+*************************************
+
+LayerPath: /header/
+LayerName: Miben segíthtek?               Rólam               Kiemelt munk
+
+LayerContent:
+Miben segíthtek?               Rólam               Kiemelt munkáim               Ajánlatkérés
+
+*************************************
+* FINISHED TextExport for Interior.psd
+*************************************
