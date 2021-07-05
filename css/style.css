@@ -190,12 +190,12 @@ footer li a:hover, #copyright a:hover {
 
 /* Töréspontok */
 
-@media screen and (max-width: 1280px) {
+@media (max-width: 1280px) {
     #hero {
         background-position: bottom right -60%, bottom center;
     }
 }
-@media screen and (max-width: 1170px) {
+@media (max-width: 1170px) {
     #hero {
         background-size: auto 70%, cover;
         background-position: bottom right -40%, bottom center;
@@ -218,7 +218,7 @@ footer li a:hover, #copyright a:hover {
         height: 100%;
     }
 }
-@media screen and (max-width: 768px) {
+@media (max-width: 768px) {
     #hero {
         background-size: auto 350px, cover;
         background-position: bottom right, bottom center;
@@ -246,7 +246,7 @@ footer li a:hover, #copyright a:hover {
         margin: 10px 0;
     }
 }
-@media screen and (max-width: 620px) {
+@media (max-width: 620px) {
     #hero {
         background-size: auto 350px, cover;
         background-position: bottom right, bottom center;
