@@ -8,6 +8,10 @@ p {
     margin-bottom: 15px; 
     line-height: 1.6;
     }
+header, #hero-text {
+    margin-left: 40px;
+    margin-right: 40px;
+}
 h1, h2, h3 {
     font-family: 'Comfortaa', cursive;
     line-height:1.2;
@@ -54,7 +58,7 @@ img {
 
 .content-box {
     display: block;
-    max-width: 1520px;
+    max-width: 1640px;
     margin: auto;
     box-sizing:border-box;
 }
