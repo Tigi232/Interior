@@ -37,7 +37,6 @@ section ul {
 section li {
     line-height: 1.2;
     margin-bottom: 10px;
-    background: url(img/bullet.svg) top 10px left no-repeat;
     background-size: 6px auto;
     padding-left: 20px;
 }
@@ -45,6 +44,7 @@ img {
     display: block;
     width: 100%;
     height: auto;
+    box-sizing:border-box;
 }
 .align-center {
     text-align: center;
@@ -54,10 +54,9 @@ img {
 
 .content-box {
     display: block;
-    width: 90%;
     max-width: 1520px;
     margin: auto;
-        box-sizing:border-box;
+    box-sizing:border-box;
 }
 header .content-box {
     display: flex; justify-content: space-between;
